@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingCircleView">
+        <attr name="outer_stroke_width" format="dimension"/>
+    </declare-styleable>
+</resources>
